@@ -1,0 +1,8 @@
+flask_elastic_dsl.py
+setup.py
+flask_elastic_dsl.egg-info/PKG-INFO
+flask_elastic_dsl.egg-info/SOURCES.txt
+flask_elastic_dsl.egg-info/dependency_links.txt
+flask_elastic_dsl.egg-info/not-zip-safe
+flask_elastic_dsl.egg-info/requires.txt
+flask_elastic_dsl.egg-info/top_level.txt
