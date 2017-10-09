@@ -1,2 +1,0 @@
-Flask
-elasticsearch-dsl>=5.3.0
