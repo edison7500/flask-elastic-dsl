@@ -1,3 +1,4 @@
+README.md
 flask_elastic_dsl.py
 setup.py
 flask_elastic_dsl.egg-info/PKG-INFO

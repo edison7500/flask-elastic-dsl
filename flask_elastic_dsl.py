@@ -35,5 +35,4 @@ class ElasticDSL(object):
     #     return Elasticsearch(hosts=self.elastic_urls)
 
     def es_connection(self):
-        print (self.elastic_urls)
         return connections.create_connection(hosts=self.elastic_urls, timeout=15)
