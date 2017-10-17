@@ -7,8 +7,8 @@ from flask import _app_ctx_stack as stack
 
 class ElasticDSL(object):
     def __init__(self, app=None):
-        assert app is not None
-        self.init_app(app)
+        if app is not None:
+            self.init_app(app)
 
     def init_app(self, app):
         self.elastic_urls = list()
